@@ -1,16 +1,33 @@
-### Hi there 👋
+![Capa](https://github.com/alexxsouzaa/alexxsouzaa/assets/132787362/a32fb69f-151f-4205-8a2e-898c1de05756)
 
-<!--
-**alexxsouzaa/alexxsouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, Devs👋
+Sou Bruno Alex, um entusiasta de 24 anos apaixonado por tecnologia, eletrônica e robótica. Atualmente, estou cursando Ciências da Computação e também sou formado como Técnico em Automação Industrial. Além disso, me considero um "maker", sempre buscando explorar novas possibilidades e criar projetos inovadores.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que você encontra no meu Github:
+📚 Projetos Acadêmicos: Trabalhos e projetos desenvolvidos durante meu curso de Ciências da Computação.
+
+🤖 Projetos com Microcontroladores: Desenvolvimento de aplicações utilizando microcontroladores como Arduino, ESP32, ESP8266 e Raspberry Pi Pico.
+
+⚙️ Projetos Backend: Implementações e códigos relacionados ao desenvolvimento do lado servidor de aplicações.
+
+🌐 Projetos Frontend: Desenvolvimento de interfaces de usuário, páginas web, e outras soluções voltadas para a experiência do usuário.
+
+🚀 Códigos Aleatórios: Algumas ideias, experimentos e códigos diversos que podem variar de pequenas ferramentas a scripts úteis.
+
+🛠️ Projetos Maker: Desenvolvimento de projetos práticos e criativos, explorando a integração de eletrônica, programação e hardware DIY.
+
+
+## Estudos Atuais:
+🚀 C e C++: Dominando as linguagens C e C++ para programação de sistemas, desenvolvimento de software de baixo nível e aplicações robustas.
+
+🐍 Python: Explorando a versatilidade e simplicidade do Python para desenvolvimento de aplicações diversas.
+
+🌐 JavaScript: Aprofundando conhecimentos em JavaScript para desenvolvimento web front-end e back-end.
+
+🌐 MicroPython: Experimentando com MicroPython para desenvolvimento em microcontroladores, combinando a facilidade do Python com a eficiência de recursos desses dispositivos.
+
+<!---
+alexxsouzaa/alexxsouzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
