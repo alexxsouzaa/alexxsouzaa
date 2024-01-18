@@ -13,19 +13,19 @@ Sou Bruno Alex, um entusiasta de 24 anos apaixonado por tecnologia, eletrônica 
 
 🌐 Projetos Frontend: Desenvolvimento de interfaces de usuário, páginas web, e outras soluções voltadas para a experiência do usuário.
 
-🚀 Códigos Aleatórios: Algumas ideias, experimentos e códigos diversos que podem variar de pequenas ferramentas a scripts úteis.
+💻 Códigos Aleatórios: Algumas ideias, experimentos e códigos diversos que podem variar de pequenas ferramentas a scripts úteis.
 
 🛠️ Projetos Maker: Desenvolvimento de projetos práticos e criativos, explorando a integração de eletrônica, programação e hardware DIY.
 
 
 ## Estudos Atuais:
-🚀 C e C++: Dominando as linguagens C e C++ para programação de sistemas, desenvolvimento de software de baixo nível e aplicações robustas.
+💻 C e C++: Dominando as linguagens C e C++ para programação de sistemas, desenvolvimento de software de baixo nível e aplicações robustas.
 
 🐍 Python: Explorando a versatilidade e simplicidade do Python para desenvolvimento de aplicações diversas.
 
 🌐 JavaScript: Aprofundando conhecimentos em JavaScript para desenvolvimento web front-end e back-end.
 
-🌐 MicroPython: Experimentando com MicroPython para desenvolvimento em microcontroladores, combinando a facilidade do Python com a eficiência de recursos desses dispositivos.
+🐍 MicroPython: Experimentando com MicroPython para desenvolvimento em microcontroladores, combinando a facilidade do Python com a eficiência de recursos desses dispositivos.
 
 <!---
 alexxsouzaa/alexxsouzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
