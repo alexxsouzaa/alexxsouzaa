@@ -27,8 +27,8 @@ Sou Bruno Alex, um entusiasta de 24 anos apaixonado por tecnologia, eletrônica 
 
 🐍 MicroPython: Experimentando com MicroPython para desenvolvimento em microcontroladores, combinando a facilidade do Python com a eficiência de recursos desses dispositivos.
 
-## Números do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexxsouzaa&hide=stars,commits&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact&theme=dark&locale=pt-br)
+## Números do GitHub:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexxsouzaa&hide=stars,commits&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact&theme=dark&locale=pt-br)
 
 
 <!---
