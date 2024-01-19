@@ -28,9 +28,9 @@ Sou Bruno Alex, um entusiasta de 24 anos apaixonado por tecnologia, eletrônica 
 🐍 MicroPython: Experimentando com MicroPython para desenvolvimento em microcontroladores, combinando a facilidade do Python com a eficiência de recursos desses dispositivos.
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=alexxsouzaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=alexxsouzaa&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact&theme=dark&locale=pt-br)
 
 <!---
 alexxsouzaa/alexxsouzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
