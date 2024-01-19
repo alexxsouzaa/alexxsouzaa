@@ -30,6 +30,7 @@ Sou Bruno Alex, um entusiasta de 24 anos apaixonado por tecnologia, eletrônica 
 
 [![card](https://github-readme-stats.vercel.app/api?username=alexxsouzaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact)
 
 <!---
 alexxsouzaa/alexxsouzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
