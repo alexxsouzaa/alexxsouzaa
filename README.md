@@ -2,7 +2,7 @@
 
 
 ## Olá, Devs👋
-Sou Bruno Alex, um entusiasta de 25 anos apaixonado por tecnologia, eletrônica e robótica. Atualmente, estou cursando Ciências da Computação e também sou formado como Técnico em Automação Industrial. Além disso, me considero um "maker", sempre buscando explorar novas possibilidades e criar projetos inovadores.
+Meu nome é Bruno Alex, um entusiasta de 26 anos apaixonado por tecnologia, eletrônica e robótica. Atualmente, estou cursando Ciências da Computação e também sou formado como Técnico em Automação Industrial. Além disso, me considero um "maker", sempre buscando explorar novas possibilidades e criar projetos inovadores.
 
 
 ## O que você encontra no meu Github:
@@ -28,11 +28,12 @@ Sou Bruno Alex, um entusiasta de 25 anos apaixonado por tecnologia, eletrônica 
 
 🐍 MicroPython: Experimentando com MicroPython para desenvolvimento em microcontroladores, combinando a facilidade do Python com a eficiência de recursos desses dispositivos.
 
+## Projetos em adamento:
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexxsouzaa&repo=PyMediAgenda&description_lines_count=2&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexxsouzaa&repo=PyNote&description_lines_count=2&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexxsouzaa&repo=PyPDFTools&description_lines_count=2&theme=tokyonight)
+
 ## Números do GitHub:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexxsouzaa&hide=stars,commits&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact&theme=dark&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact&theme=tokyonight&locale=pt-br)
 
 
-<!---
-alexxsouzaa/alexxsouzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
