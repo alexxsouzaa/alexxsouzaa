@@ -1,4 +1,5 @@
-![Capa](https://github.com/alexxsouzaa/alexxsouzaa/assets/132787362/a5b8eb35-a00d-4b65-b593-d4cffa2efa20)
+![Capa](https://github.com/user-attachments/assets/fe1c122c-dbef-4e26-9993-4ccbfbc250a6)
+
 
 ## Olá, Devs👋
 Sou Bruno Alex, um entusiasta de 25 anos apaixonado por tecnologia, eletrônica e robótica. Atualmente, estou cursando Ciências da Computação e também sou formado como Técnico em Automação Industrial. Além disso, me considero um "maker", sempre buscando explorar novas possibilidades e criar projetos inovadores.
