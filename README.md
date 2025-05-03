@@ -34,6 +34,7 @@ Meu nome é Bruno Alex, um entusiasta de 26 anos apaixonado por tecnologia, elet
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexxsouzaa&repo=PyPDFTools&description_lines_count=2&theme=tokyonight)
 
 ## Números do GitHub:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact&theme=tokyonight&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxsouzaa&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br)
+
 
 
